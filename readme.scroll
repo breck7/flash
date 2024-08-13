@@ -1,8 +1,14 @@
-Flash Angel Investments
-=======================
+buildHtml
+buildTxt
+title Flash Angel Investments
 
-Burn less time raising money so you can invest more time walking in the woods.
-==============================================================================
+metaTags
+gazetteCss
+pageHeader
+printTitle
+mediumColumns 1
+
+# Burn less time raising money so you can invest more time walking in the woods.
 
 Aloha.
 
@@ -15,3 +21,6 @@ I will do many things along those lines.
 I'm just getting started.
 
 Star our repo or email me breck7@gmail.com to follow the journey.
+
+pageFooter
+permalink index.html
