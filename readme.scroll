@@ -2,9 +2,10 @@ buildHtml
 buildTxt
 title Flash Angel Investments
 
+viewSourceBaseUrl https://github.com/breck7/flash/blob/main/
 metaTags
 gazetteCss
-pageHeader
+viewSourceButton
 
 mediumColumns 1
 
@@ -23,6 +24,9 @@ I'm just getting started.
 Let's build together
 
 Email breck7@gmail.com a link to what you are building.
+
+Learn more about my previous investments.
+ https://breckyunits.com/investments.html Learn more
 
 pageFooter
 permalink index.html
