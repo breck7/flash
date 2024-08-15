@@ -2,7 +2,12 @@
 
 Aloha.
 
-I'm Breck and my goals with Flash are to help entrepreneurs become the best craftspeople they can be; build the greatest products and teams they can create; advance and preserve humanity and science; and help them preserve as much of their precious time as possible.
+I'm Breck and my goals with Flash are to help entrepreneurs:
+
+- become the best craftspeople they can be
+- build the greatest products and teams they can create
+- advance and preserve humanity, science and the public domain
+- while preserving as much of their time as possible for walks in the woods
 
 Those are my goals.
 
@@ -10,9 +15,13 @@ I will do many things along those lines.
 
 I'm just getting started.
 
-Let's build together
+*Let's build together.*
 
-Email breck7@gmail.com a link to what you are building.
+Start by emailing breck7@gmail.com a link to what you are building.
+
+- Breck
 
 Learn more about my previous investments.
  https://breckyunits.com/investments.html Learn more
+
+Built with Scroll v120.2.0
