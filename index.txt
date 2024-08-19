@@ -21,7 +21,14 @@ Start by emailing breck7@gmail.com a link to what you are building.
 
 - Breck
 
-Learn more about my previous investments.
- https://breckyunits.com/investments.html Learn more
+⁂
 
-Built with Scroll v120.2.0
+Related reading
+===============
+
+- A sample of my investments and more on what I look for
+ https://breckyunits.com/investments.html A sample of my investments and more on what I look for
+- An Angel Investor's Data (2022)
+ https://breckyunits.com/an-angel-investors-data.html An Angel Investor's Data (2022)
+
+Built with Scroll v120.2.1
