@@ -5,6 +5,35 @@ title Flash Angel Investments
 editBaseUrl https://github.com/breck7/flash/blob/main/
 metaTags
 theme gazette
+css
+ :root {
+   --scrollColorBackground: #faf9f6;
+   --scrollColorText: #343a40;
+   --scrollColorLink: #305781;
+   --scrollColorSubdued: #72777c;
+   --scrollFontPrimary: Georgia, "Times New Roman", serif;
+   --scrollFontUi: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+   --scrollBaseFontSize: 16px;
+ }
+ body { line-height: 1.35; -webkit-font-smoothing: antialiased; }
+ .scrollColumns { box-sizing: border-box; padding: 1.25rem 1.4rem 0.75rem; }
+ .scrollColumns .scrollCaptionedFigure { margin-bottom: 0.5rem !important; }
+ .scrollParagraph { line-height: 1.35; margin: 0.45rem 0 0; text-align: left; }
+ ul { padding-left: 1.25rem; }
+ li { line-height: 1.35; margin: 0.15rem 0; padding-left: 0.2rem; }
+ li::marker { color: #8998a7; }
+ a { text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+ a:hover { color: #193e65; text-decoration: underline; }
+ a:focus-visible { outline: 2px solid #305781; outline-offset: 4px; border-radius: 2px; }
+ strong { color: #253f5c; }
+ .scrollSection h1 { font-family: var(--scrollFontUi); font-size: 1.05rem; font-weight: 600; letter-spacing: 0.015em; }
+ .abstractDinkusParser { color: #8998a7; padding: 0.45rem 0 0; }
+ center { margin-top: 0.6rem; }
+ .abstractTextLinkParser { font-family: var(--scrollFontUi); font-size: 0.7rem; }
+ .abstractTextLinkParser a { color: var(--scrollColorSubdued); }
+ @media (max-width: 600px) {
+   .scrollColumns { padding: 1.25rem 1rem 0.75rem; }
+ }
 editButton
 
 mediumColumns 1
