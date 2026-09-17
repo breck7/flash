@@ -27,8 +27,8 @@ Related reading
 ===============
 
 - A sample of my investments and more on what I look for
- https://breckyunits.com/investments.html A sample of my investments and more on what I look for
+ https://breck.lol/investments.html A sample of my investments and more on what I look for
 - An Angel Investor's Data (2022)
- https://breckyunits.com/an-angel-investors-data.html An Angel Investor's Data (2022)
+ https://breck.lol/an-angel-investors-data.html An Angel Investor's Data (2022)
 
-Built with Scroll v120.2.1
+Built with Scroll v178.2.3
