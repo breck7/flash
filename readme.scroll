@@ -2,14 +2,14 @@ buildHtml
 buildTxt
 title Flash Angel Investments
 
-viewSourceBaseUrl https://github.com/breck7/flash/blob/main/
+editBaseUrl https://github.com/breck7/flash/blob/main/
 metaTags
-gazetteCss
-viewSourceButton
+theme gazette
+editButton
 
 mediumColumns 1
 
-image logo.png
+logo.png
 
 Aloha.
 
@@ -37,9 +37,9 @@ Start by emailing breck7@gmail.com a link to what you are building.
 # Related reading
 
 - A sample of my investments and more on what I look for
- https://breckyunits.com/investments.html
+ https://breck.lol/investments.html
 - An Angel Investor's Data (2022)
- https://breckyunits.com/an-angel-investors-data.html
+ https://breck.lol/an-angel-investors-data.html
 
-import pageFooter.scroll
+pageFooter.scroll
 permalink index.html
