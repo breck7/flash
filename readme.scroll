@@ -1,6 +1,9 @@
 buildHtml
 buildTxt
 title Flash Angel Investments
+favicon favicon.png
+baseUrl https://flash.breck.lol/
+openGraphImage og.png
 
 editBaseUrl https://github.com/breck7/flash/blob/main/
 metaTags
